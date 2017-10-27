@@ -7,3 +7,5 @@ mostly related to the JavaSpark Framework.  The focus of this project was on dat
 <br><br>
 There are other files, not included for cleanliness, required to make this work.  If you'd like to demo the project, let me know and I 
 can send you instructions on how to set it up.  
+<br><br>
+Note that at the time of completion, I was a Junior in high school.
